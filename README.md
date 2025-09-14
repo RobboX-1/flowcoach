@@ -1,37 +1,34 @@
-# Flowcoach 🚀  
+# Flowcoach 🚀
+
 **Evidence-based Coaching für Fitness, Gesundheit & Leistung**
 
 Flowcoach ist eine digitale Coaching-Plattform, die wissenschaftlich fundierte Methoden mit moderner Technologie verbindet.  
-Unser Ziel: nachhaltige Ergebnisse für Fitness, mentale Stärke und Gesundheit.
+
+Unser Ziel: nachhaltige Ergebnisse für **Fitness**, **mentale Stärke** und **Gesundheit**.
 
 ---
 
 ## 🌟 Features
-- Evidence-based Coaching Programme  
-- Personalisierte Empfehlungen  
-- Wissenschaftlich validierte Inhalte  
-- Multi-Domain-Auftritt: `.com`, `.de`, `.coach`, `.training`  
-
----
-
-## 🏗 Projektstatus
-- **Phase 1 (aktuell):** Landingpage + Grundstruktur  
-- **Phase 2:** Content-Erweiterung, SEO-Optimierung  
-- **Phase 3:** Skalierung, SaaS-Elemente, Investoren-ready  
+- Individuelle Coaching-Programme basierend auf wissenschaftlicher Evidenz  
+- Fokus auf Fitness, mentale Gesundheit und Leistungssteigerung  
+- Moderne, digitale Plattform für einfache Nutzung  
+- Langfristig bessere Ergebnisse durch Daten, Technologie und Expertise  
 
 ---
 
 ## 📈 Vision
-Flowcoach soll zu einer der führenden Coaching-Plattformen im DACH-Raum und international werden.  
-Skalierbar, automatisiert und investor-ready.
+Flowcoach soll zur führenden Plattform für evidenzbasiertes Coaching im Bereich Gesundheit, Fitness und mentale Stärke werden.  
+Wir möchten Menschen helfen, ihr volles Potenzial zu entfalten – gesund, leistungsfähig und nachhaltig.  
 
 ---
 
-## 🔗 Live-Demo
-👉 [www.flowcoachapp.com](http://www.flowcoachapp.com)
+## 📞 Kontakt
+👉 Interesse an Flowcoach oder einer Zusammenarbeit?  
+Besuche uns auf: [www.flowcoachapp.com](https://www.flowcoachapp.com)  
+Oder kontaktiere uns direkt per Mail: **info@flowcoachapp.com**  
 
 ---
 
-## 👤 Founder
-Dieses Projekt wird entwickelt und gemanagt von RobboX-1.  
-Ziel: Aufbau einer **nachhaltigen, skalierbaren Coaching-Plattform**, die sowohl eigenständig betrieben als auch gewinnbringend verkauft werden kann.
+## 🤝 Partnerschaften
+Wir sind offen für Kooperationen und Partnerschaften, um die Plattform gemeinsam weiterzuentwickeln.  
+Wenn du Interesse hast, melde dich gerne!  
